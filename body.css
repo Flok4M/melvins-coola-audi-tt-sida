@@ -1,0 +1,29 @@
+body {
+    background-color: #f5f5f5;
+  }
+  .header {
+    text-align: center;
+  }
+  img {
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  }
+  a:hover {
+    color: #ff4500;
+  }
+  button {
+    background: linear-gradient(to bottom right, #ff6347, #ff4500);
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  button {
+    background: linear-gradient(to bottom right, #ff6347, #ff4500);
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
